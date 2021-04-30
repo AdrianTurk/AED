@@ -1,5 +1,5 @@
 # <ins>Trabajo Practico \#0</ins>
 
-- Titulo: *"Hello World! en c++"*
-- Autor: *Adrian Turk*
+- Título: *"Hello World! en c++"*
+- Autor: *Adrián Turk*
 - Compilador: GCC 6.3
