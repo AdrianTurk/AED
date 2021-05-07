@@ -9,6 +9,10 @@ Nota: Ejercicio 6 de la guia
 <br/>
 
 ---
+## STATUS: EN PROCESO
+---
+
+---
 ## Consigna Credito Extra:
 ---
 
