@@ -6,10 +6,9 @@ Nota: Ejercicio 6 de la guia
 - Autor: *Adrián Turk*
 - Compilador: GCC 6.3
 
-<br/>
 
 ---
-## <div style="text-align: center"> STATUS: EN PROCESO </div>
+-> ## STATUS: EN PROCESO <-
 ---
 ## Consigna Credito Extra:
 ---
