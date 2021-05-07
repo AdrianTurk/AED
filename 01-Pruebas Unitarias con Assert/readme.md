@@ -9,9 +9,7 @@ Nota: Ejercicio 6 de la guia
 <br/>
 
 ---
-## STATUS: EN PROCESO
----
-
+## <div style="text-align: center"> STATUS: EN PROCESO </div>
 ---
 ## Consigna Credito Extra:
 ---
