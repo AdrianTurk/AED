@@ -56,8 +56,11 @@ int main()
     assert(4294967295u + 1 == 0 );          // es el uint predeterminado uint32?
     
     //Boundaries - Evitando sizeof()
-    
+
     assert('\0' - 1 == -1);                      // los char son de 16? :C
+    //Solo extenciones de c++ de ms
+    //cout<< 0i8;
+
     assert(0u -1 == 4294967295);                    // Pero acaso no existe mas el uint de 16 :C ???
     assert(0ul - 1 == 4294967295ul );               // Ulong de 32 bits?
     assert(0ull - 1 == 18446744073709551615ul) ;    // ulonglong de 64?
@@ -76,5 +79,6 @@ int main()
     assert(1./3 - 0.3333 < 0.0001);
     assert(25./3 - 8.3333 < 0.0001);
     assert(11./-7 - 1.5714 < 0.0001);
-
+    
+    cout << "La casa esta en orden";
 }
