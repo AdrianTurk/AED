@@ -2,6 +2,7 @@
     "files.associations": {
         "cstring": "cpp",
         "cassert": "cpp",
-        "ios": "cpp"
+        "ios": "cpp",
+        "iostream": "cpp"
     }
 }

@@ -5,7 +5,11 @@
 using namespace std;
 using namespace std::literals;
 //using namespace std::string_literals;
- 
+
+char DemeChar(void){
+    return '1';
+};
+
 int main()
 {
 
@@ -72,7 +76,14 @@ int main()
     assert(1E-100 - 1 + 1E-100 - 1 < 0.0001);
     assert(1.125e-5 / 1.25e10 - 1.125e-5 / 1.25E10 < 0.0001 );
 
-    cout << "La casa esta en orden" << endl;
+//    cout << "La casa esta en orden" << endl;
+    int test;
+    cout << ((11 > 10) ? "Ty\n" : "Nop\n") ;
+
+    float f3(float);
+
+    cout << "Cadena "s + DemeChar() ;
+
 /*
     string cadena= u8"te";
     cout << std::hex << (int)cadena[0] << endl;
